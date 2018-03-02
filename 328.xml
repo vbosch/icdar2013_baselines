@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd" pcGtsId="">
+    <Metadata>
+        <Creator>V. Bosch</Creator>
+        <Created>2016-05-20T13:51:57</Created>
+        <LastChange>2018-02-28T14:54:18</LastChange>
+    </Metadata>
+    <Page imageWidth="2359" imageFilename="328.tif" imageHeight="1471">
+        <TextRegion id="r1">
+            <Coords points="0,0 2359,0 2359,1471 0,1471"/>
+            <TextLine id="l1">
+                <Coords points=""/>
+                <Baseline points="10,94 1650,114 2230,143"/>
+            </TextLine>
+            <TextLine id="l2">
+                <Coords points=""/>
+                <Baseline points="17,237 2186,288"/>
+            </TextLine>
+            <TextLine id="l3">
+                <Coords points=""/>
+                <Baseline points="37,399 1488,396 2351,431"/>
+            </TextLine>
+            <TextLine id="l4">
+                <Coords points=""/>
+                <Baseline points="44,563 2203,549"/>
+            </TextLine>
+            <TextLine id="l5">
+                <Coords points=""/>
+                <Baseline points="329,855 1604,848 2331,850"/>
+            </TextLine>
+            <TextLine id="l6">
+                <Coords points=""/>
+                <Baseline points="69,988 1150,978 2341,1020"/>
+            </TextLine>
+            <TextLine id="l7">
+                <Coords points=""/>
+                <Baseline points="66,1182 1911,1187 2338,1199"/>
+            </TextLine>
+            <TextLine id="l8">
+                <Coords points=""/>
+                <Baseline points="143,1332 929,1332 1157,1317"/>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>
